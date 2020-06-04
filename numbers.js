@@ -11,3 +11,4 @@ const weeksPerYear = 52;
 const yearsAlive = 29
 const secondsYears = secsPerMin * HrPerDay * weeksPerYear * yearsAlive
 console.log(`ive been alive more than ${secondsYears} seconds`)
+
